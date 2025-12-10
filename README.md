@@ -12,6 +12,14 @@ Focused on clean code, optimal solutions, and core problem-solving patterns.
 
 ---
 
+## Upcoming Topics
+- HashMap
+- Sliding Window
+- Prefix Sum
+- Recursion
+
+---
+
 ## Solved Problems
 - 1. Two Sum
 - 167. Two Sum II – Input Array Is Sorted
